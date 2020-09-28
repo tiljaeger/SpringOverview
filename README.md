@@ -22,5 +22,12 @@ There are also Spring project which can be used
 * SpringSecurity
 * ...
 
+# different simple code examples for
+* mockito
+* Springboot
+* Spring
+* AOP
+* Spring Data, JPA, JDBC
+
 
 
