@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: database-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tilman.jaeger
+Implementation-Vendor-Id: com.in28minutes.database
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://spring.io/projects/spring-boot/database-de
+ mo
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
