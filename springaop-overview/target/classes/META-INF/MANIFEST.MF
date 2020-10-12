@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-aop
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tilman.jaeger
+Implementation-Vendor-Id: com.in28minutes.spring.aop
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://spring.io/projects/spring-boot/spring-aop
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
