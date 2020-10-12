@@ -1,4 +1,5 @@
 ##  Spring JDBC and JPA (Hibernate)
+(steps and content taken from https://github.com/in28minutes/spring-master-class/edit/master/04-spring-jdbc-to-jpa/readme.md)
 
 Let's play and learn more about Spring JDBC, JPA and Spring Data JPA
 
